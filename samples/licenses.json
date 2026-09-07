@@ -1,0 +1,21 @@
+[
+  {
+    "id": "sample-1",
+    "enabled": false,
+    "licenses": [
+      "sample-sku"
+    ],
+    "servicePlans": [
+      {
+        "name": "sample-plan",
+        "status": "Error"
+      }
+    ]
+  },
+  {
+    "id": "sample-2",
+    "enabled": true,
+    "licenses": [],
+    "servicePlans": []
+  }
+]

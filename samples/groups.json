@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "id": "a",
+      "members": [
+        "b",
+        "user-1"
+      ]
+    },
+    {
+      "id": "b",
+      "members": [
+        "a",
+        "missing"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "user-1",
+      "privileged": true
+    }
+  ]
+}

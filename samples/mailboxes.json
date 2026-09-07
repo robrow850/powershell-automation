@@ -1,0 +1,13 @@
+[
+  {
+    "id": "sample-mailbox",
+    "type": "Shared",
+    "forwarding": "forward@external.example",
+    "delegates": [
+      "sample-delegate"
+    ],
+    "permissions": [
+      "FullAccess"
+    ]
+  }
+]

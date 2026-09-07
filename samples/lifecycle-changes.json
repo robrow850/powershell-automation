@@ -1,0 +1,21 @@
+[
+  {
+    "action": "update",
+    "id": "sample-1",
+    "groups": [
+      "sample-readers"
+    ],
+    "licenses": [
+      "sample-license"
+    ]
+  },
+  {
+    "action": "disable",
+    "id": "sample-1"
+  },
+  {
+    "action": "create",
+    "id": "sample-2",
+    "displayName": "Sample Two"
+  }
+]

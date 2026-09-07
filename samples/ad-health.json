@@ -1,0 +1,25 @@
+{
+  "domainControllers": [
+    {
+      "name": "dc-example",
+      "reachable": true,
+      "replicationHealthy": false,
+      "dnsHealthy": null
+    }
+  ],
+  "staleObjects": [
+    {
+      "id": "sample-old-computer"
+    }
+  ],
+  "passwordPolicy": {
+    "minimumLength": 12
+  },
+  "fsmo": {
+    "SchemaMaster": "dc-example",
+    "DomainNamingMaster": "dc-example",
+    "PDCEmulator": "dc-example",
+    "RIDMaster": "dc-example",
+    "InfrastructureMaster": "dc-example"
+  }
+}

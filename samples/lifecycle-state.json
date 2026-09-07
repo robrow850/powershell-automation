@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "sample-1",
+      "displayName": "Sample One",
+      "accountEnabled": true,
+      "groups": [],
+      "licenses": []
+    }
+  ]
+}
